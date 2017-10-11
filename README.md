@@ -1,9 +1,9 @@
-##E2E Testing demo with ionic 
+# E2E Testing demo with ionic 
 
-## **Keywords:** protractor, web driver, selenium, jasmine, e2e, testing, ionic framework
-#Introduction
+#### **Keywords:** protractor, web driver, selenium, jasmine, e2e, testing, ionic framework
+# Introduction
 This is a demo of e2e testing with Ionic3 and latest versions of Protractor and Jasmine. 
-#Fundamentals and the slides
+# Fundamentals and the slides
 This was created for a meetup and this slides are here: [slides]("http://slides.com/bryanrodriguezsiatama/e2e-testing-ionic")
 That was a recopilation of some materials related to e2e testing with ionic framework (v3 current latest to May 2017), and my own experience working on Ionic and creating e2e Testing.
 
@@ -78,7 +78,7 @@ All the contributions and issues will be received.
 ## License
 MIT License
 
-Copyright (c) 2017 Bryan Rodríguez Siatama
+Copyright (c) 2017
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
