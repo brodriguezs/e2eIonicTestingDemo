@@ -4,7 +4,7 @@
 # Introduction
 This is a demo of e2e testing with Ionic3 and latest versions of Protractor and Jasmine. 
 # Fundamentals and the slides
-This was created for a meetup and this slides are here: [slides]("http://slides.com/bryanrodriguezsiatama/e2e-testing-ionic")
+This was created for a meetup and this slides are here: [slides](http://slides.com/bryanrodriguezsiatama/e2e-testing-ionic)
 That was a recopilation of some materials related to e2e testing with ionic framework (v3 current latest to May 2017), and my own experience working on Ionic and creating e2e Testing.
 
 The code are recopilation of some tutorials and reference guides showed as follow.
@@ -12,40 +12,40 @@ The code are recopilation of some tutorials and reference guides showed as follo
 # References 
 ##Guides from Josh Morony:
 
-* [Introduction to e2e] ("https://www.joshmorony.com/e2e-end-to-end-testing-in-ionic-2-an-introduction/")
-* [E2E testing in Ionic: Structuring Tests With Page Objects] ("https://www.joshmorony.com/e2e-end-to-end-testing-in-ionic-2-structuring-tests-with-page-objects/")
-* [E2E Testing in ionic2: Test Driven Development] ("https://www.joshmorony.com/e2e-end-to-end-testing-in-ionic-2-test-driven-development/")
+* [Introduction to e2e] (https://www.joshmorony.com/e2e-end-to-end-testing-in-ionic-2-an-introduction/)
+* [E2E testing in Ionic: Structuring Tests With Page Objects] (https://www.joshmorony.com/e2e-end-to-end-testing-in-ionic-2-structuring-tests-with-page-objects/)
+* [E2E Testing in ionic2: Test Driven Development] (https://www.joshmorony.com/e2e-end-to-end-testing-in-ionic-2-test-driven-development/)
 ### How E2E works?:
-* [Protractor infraestructure] ("http://www.protractortest.org/#/infrastructure")
+* [Protractor infraestructure] (http://www.protractortest.org/#/infrastructure)
 
 
 ## Best practices
 ### Using page objects
-* [Page objects with protractor] ("http://www.protractortest.org/#/page-objects")
-* [Structuring PageObjects by Josh Morony] ("https://www.joshmorony.com/e2e-end-to-end-testing-in-ionic-2-structuring-tests-with-page-objects/")
-* [Another info related] ("https://github.com/SeleniumHQ/selenium/wiki/PageObjects")
+* [Page objects with protractor] (http://www.protractortest.org/#/page-objects)
+* [Structuring PageObjects by Josh Morony] (https://www.joshmorony.com/e2e-end-to-end-testing-in-ionic-2-structuring-tests-with-page-objects/)
+* [Another info related] (https://github.com/SeleniumHQ/selenium/wiki/PageObjects)
 
 # Solving issues
-* [Typings bug with jasmine versions > 2.5.45] ("https://github.com/DefinitelyTyped/DefinitelyTyped/issues/15215")
+* [Typings bug with jasmine versions > 2.5.45] (https://github.com/DefinitelyTyped/DefinitelyTyped/issues/15215)
 
 # Tesing at all
 ## Fundamentals
-* [Testing Blog recomendations of Google Testing Blog VERY INTERESTING!!] ("https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html")
+* [Testing Blog recomendations of Google Testing Blog VERY INTERESTING!!] (https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
 ## Unit testing
-* [Unit Testing for App by Josh Morony]("https://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/")
+* [Unit Testing for App by Josh Morony](https://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 
 ## Reference to write E2E tests with protractor and jasmine:
-* [Protractor quick guide for write E2E tests]("http://www.protractortest.org/#/tutorial")
-* [Using locators in protractor (VERY USEFULL!!)]("http://www.protractortest.org/#/locators")
-* [Jasmine framework reference guide]("https://jasmine.github.io/2.5/introduction.html") 
+* [Protractor quick guide for write E2E tests](http://www.protractortest.org/#/tutorial)
+* [Using locators in protractor (VERY USEFULL!!)](http://www.protractortest.org/#/locators)
+* [Jasmine framework reference guide](https://jasmine.github.io/2.5/introduction.html) 
 
 ### Style Guide
-* [Protractor style guide] ("http://www.protractortest.org/#/style-guide")
+* [Protractor style guide] (http://www.protractortest.org/#/style-guide)
 
 ### Another links about testing:
-* [SeleniumWebDriver] ("http://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/chrome_exports_Driver.html")
-* [An introduction to TDD by Josh Morony] ("https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/")
-* [Angular testing: TestBed?] ("https://angular.io/guide/testing#!#testing-intro")
+* [SeleniumWebDriver] (http://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/chrome_exports_Driver.html)
+* [An introduction to TDD by Josh Morony] (https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
+* [Angular testing: TestBed?] (https://angular.io/guide/testing#!#testing-intro)
 
 ## How to use this demo
 
